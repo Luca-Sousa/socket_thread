@@ -1,2 +1,12 @@
-chatkeystore.jks
+# Ignorar a pasta .vscode (configurações do VS Code)
 .vscode/
+
+# Ignorar arquivos do keystore
+chatkeystore.jks
+
+# Ignorar arquivos de build
+*.class
+*.jar
+
+# Ignorar arquivos de log
+*.log
